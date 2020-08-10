@@ -1,0 +1,276 @@
+{
+  "categorys": [
+    {
+      "id": 1,
+      "title": "Desenhos",
+      "description": "Desenhos anos 90",
+      "color": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "title": "Séries",
+      "description": "Séries Anos 90",
+      "color": "#00C86F"
+    },
+    {
+      "id": 3,
+      "title": "Animes",
+      "description": "Animes antigos",
+      "color": "#6b5be2"
+    },
+    {
+      "id": 4,
+      "title": "Filmes animados",
+      "description": "",
+      "color": "orange"
+    },
+    {
+      "id": 5,
+      "title": "Filmes de Princesas",
+      "description": "",
+      "color": "fuchsia"
+    },
+    {
+      "id": 6,
+      "title": "Filmes Live Action",
+      "description": "",
+      "color": "#9cd33b"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "title": "Bob Esponja",
+      "url": "https://www.youtube.com/watch?v=PHZVmNn5wzA"
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "title": "Pernalonga",
+      "url": "https://www.youtube.com/watch?v=13q6mL-dywk"
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "title": "Pica-Pau",
+      "url": "https://www.youtube.com/watch?v=B0mebVqRF_0"
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "title": "Caverna do Dragão",
+      "url": "https://www.youtube.com/watch?v=gHaBxnCNbHE"
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "title": "Looney Tunes",
+      "url": "https://www.youtube.com/watch?v=ZyUG4S-OSSw"
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "title": "Três Espiãs Demais",
+      "url": "https://www.youtube.com/watch?v=2-ebkFj7YHE"
+    },
+    {
+      "id": 7,
+      "categoryId": 1,
+      "title": "Laboratório do Dexter",
+      "url": "https://www.youtube.com/watch?v=9Mpx3p8L5Eo"
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "title": "Todo Mundo Odeia o Chris",
+      "url": "https://www.youtube.com/watch?v=XfnltYYzIRI"
+    },
+    {
+      "id": 9,
+      "categoryId": 2,
+      "title": "Hannah Montana",
+      "url": "https://www.youtube.com/watch?v=VRv-re6CuOQ"
+    },
+    {
+      "id": 10,
+      "categoryId": 2,
+      "title": "Os Feiticeiros de Waverly Place",
+      "url": "https://www.youtube.com/watch?v=fKUenLizwcQ"
+    },
+    {
+      "id": 11,
+      "categoryId": 2,
+      "title": "Um Maluco no Pedaço",
+      "url": "https://www.youtube.com/watch?v=joALtfBM50A"
+    },
+    {
+      "id": 12,
+      "categoryId": 2,
+      "title": "Três é Demais",
+      "url": "https://www.youtube.com/watch?v=YtlGW_PGWyQ"
+    },
+    {
+      "id": 13,
+      "categoryId": 2,
+      "title": "Eu a patroa e as crianças",
+      "url": "https://www.youtube.com/watch?v=yguv-aw36wU"
+    },
+    {
+      "id": 14,
+      "categoryId": 3,
+      "title": "Dragon Ball",
+      "url": "https://www.youtube.com/watch?v=sEEvIoZsK8M"
+    },
+    {
+      "id": 15,
+      "categoryId": 3,
+      "title": "Cavaleiros dos Zodiácos",
+      "url": "https://www.youtube.com/watch?v=E5qoetbRdYM"
+    },
+    {
+      "id": 16,
+      "categoryId": 3,
+      "title": "Hunter x Hunter",
+      "url": "https://www.youtube.com/watch?v=SJN0DngLVf4"
+    },
+    {
+      "id": 17,
+      "categoryId": 4,
+      "title": "Rei Leão",
+      "url": "https://www.youtube.com/watch?v=wtt4uiCb2P0"
+    },
+    {
+      "id": 18,
+      "categoryId": 4,
+      "title": "Rei Leão 2",
+      "url": "https://www.youtube.com/watch?v=-rg8KRaHRxE"
+    },
+    {
+      "id": 19,
+      "categoryId": 4,
+      "title": "Monstros SA",
+      "url": "https://www.youtube.com/watch?v=m4sNAYz1h-U"
+    },
+    {
+      "id": 20,
+      "categoryId": 4,
+      "title": "Universidade Monstros",
+      "url": "https://www.youtube.com/watch?v=vVArDZP7vDI"
+    },
+    {
+      "id": 21,
+      "categoryId": 4,
+      "title": "Procurando Nemo",
+      "url": "https://www.youtube.com/watch?v=xwK903wJFn4"
+    },
+    {
+      "id": 22,
+      "categoryId": 4,
+      "title": "Procurando Dory",
+      "url": "https://www.youtube.com/watch?v=SD9MQk5Qa3Y"
+    },
+    {
+      "id": 23,
+      "categoryId": 4,
+      "title": "Toy Story 1",
+      "url": "https://www.youtube.com/watch?v=FCoH3RaF9oo"
+    },
+    {
+      "id": 24,
+      "categoryId": 4,
+      "title": "Toy Story 2",
+      "url": "https://www.youtube.com/watch?v=2kK-giOBkLM"
+    },
+    {
+      "id": 25,
+      "categoryId": 4,
+      "title": "Toy Story 3",
+      "url": "https://www.youtube.com/watch?v=TOa15DC81Mw"
+    },
+    {
+      "id": 26,
+      "categoryId": 4,
+      "title": "Toy Story 4",
+      "url": "https://www.youtube.com/watch?v=G4I-mBl4dLw"
+    },
+    {
+      "id": 27,
+      "categoryId": 5,
+      "title": "Cinderela",
+      "url": "https://www.youtube.com/watch?v=ffCE7Vx3R4g"
+    },
+    {
+      "id": 28,
+      "categoryId": 5,
+      "title": "A Bela e a Fera",
+      "url": "https://www.youtube.com/watch?v=Tm4HLAHNhv8"
+    },
+    {
+      "id": 29,
+      "categoryId": 5,
+      "title": "Aladdin",
+      "url": "https://www.youtube.com/watch?v=dwc9Apfohd8"
+    },
+    {
+      "id": 30,
+      "categoryId": 5,
+      "title": "A Princesa e o Sapo",
+      "url": "https://www.youtube.com/watch?v=4hshF-qi_H8"
+    },
+    {
+      "id": 31,
+      "categoryId": 5,
+      "title": "Mulan",
+      "url": "https://www.youtube.com/watch?v=bMZ9LlqKtDs"
+    },
+    {
+      "id": 32,
+      "categoryId": 6,
+      "title": "Málévola",
+      "url": "https://www.youtube.com/watch?v=WDqjCWu0dho"
+    },
+    {
+      "id": 33,
+      "categoryId": 6,
+      "title": "Málévola 2 A Dona do Mal",
+      "url": "https://www.youtube.com/watch?v=FMxI2eQDMQA"
+    },
+    {
+      "id": 34,
+      "categoryId": 6,
+      "title": "Rei Leão",
+      "url": "https://www.youtube.com/watch?v=zoTlCnTmLo8"
+    },
+    {
+      "id": 35,
+      "categoryId": 6,
+      "title": "Aladdin",
+      "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+    },
+    {
+      "id": 36,
+      "categoryId": 6,
+      "title": "A Bela e a Fera",
+      "url": "https://www.youtube.com/watch?v=ua5omXEEFbA"
+    },
+    {
+      "categoryId": 1,
+      "title": "O Fantástico Mundo de Bob",
+      "url": "https://www.youtube.com/watch?v=VDvuouCsFU8",
+      "id": 37
+    },
+    {
+      "categoryId": 6,
+      "title": "teste",
+      "url": "https://www.alura.com.br/imersao-react/aula04-ajax-validacao",
+      "id": 38
+    },
+    {
+      "categoryId": 1,
+      "title": "Tartarugas Ninjas",
+      "url": "https://www.youtube.com/watch?v=G--qcLXmwHg",
+      "id": 39
+    }
+  ]
+}
